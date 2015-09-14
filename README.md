@@ -8,9 +8,9 @@ The template contains the basic features including user login/logout and a conta
 It includes all commonly used configurations that would allow you to focus on adding new
 features to your application.
 
-[![Latest Stable Version](https://#)
-[![Total Downloads](https://#)
-[![Build Status](https://#)
+[![Latest Stable Version](0)
+[![Total Downloads](0)
+[![Build Status](0)
 
 DIRECTORY STRUCTURE
 -------------------
